@@ -1,0 +1,16 @@
+[
+    
+    {
+      "id": 1,
+      "role": "Full Stack Developer - Intern",
+      "organisation": "Ardent Computech Pvt. Ltd.",
+      "startDate": "May, 2024",
+      "endDate": "Jun, 2024",
+      "location": "Remote",
+      "experiences": [
+        "Worked on Online Job Portal",
+        "Helped to create UI and Authentication"
+      ],
+      "imageSrc": "company/netflix.png"
+    }
+  ]
